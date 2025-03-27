@@ -58,7 +58,9 @@ Port 22 is open
 
 ## 🔗 Contact
 If you found this project interesting, feel free to star ⭐ the repo or follow me!
+
 📧 Email: akanekaze67@email.com
+
 🔗 GitHub: github.com/kilva245
 
 ### 💡 Bonus Tips for a More Professional Repo:
