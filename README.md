@@ -34,13 +34,13 @@ Please enter the port you want to scan (0-65535): 22
 Port 22 is open
 ```
 
-##🛡 Security Notice
+## 🛡 Security Notice
 ⚠ This tool is intended for educational purposes only. Unauthorized use is your responsibility.
 
 📝 License
 📜 This project is released under the MIT License.
 
-🔗 Contact
+## 🔗 Contact
 If you found this project interesting, feel free to star ⭐ the repo or follow me!
 📧 Email: akanekaze67@email.com
 🔗 GitHub: github.com/kilva245
