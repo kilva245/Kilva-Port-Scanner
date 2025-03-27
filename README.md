@@ -67,5 +67,7 @@ If you found this project interesting, feel free to star ⭐ the repo or follow 
 
 ### 💡 Bonus Tips for a More Professional Repo:
 ✅ Add a screenshot of the terminal output with colors.
+
 ✅ Create a short GIF using asciinema to show the scanning process.
+
 ✅ Open a few test Issues and Pull Requests to show it's an active project.
